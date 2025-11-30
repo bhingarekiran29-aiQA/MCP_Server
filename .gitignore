@@ -1,0 +1,8 @@
+myenv/
+venv/
+myapp/
+.env
+__pycache__/
+*.pyd
+*.dll
+*.exe
